@@ -1,1 +1,19 @@
-Git Demo File
+Git Demo File Commands 
+
+git version 
+
+git config --global user.name "Aaditi"
+git config --global user.email "ay.godbole@gmail.com"
+git config --global --list
+
+git clone "gitUrl" 
+
+
+
+
+git add Demo.txt 
+git commit -m "Adding Demo text file" 
+git push origin master
+git status
+
+
